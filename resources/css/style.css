@@ -7,8 +7,8 @@ h1{
   font-weight: bold;
 }
 .design{
-  background-image: url("broadway/resources/the-flatiron-building.png");
-  color: white;
+  background-image: url("../images/the-flatiron-building.png");
+  color: black;
 }
 #navigation{
   font-size: 18px;
