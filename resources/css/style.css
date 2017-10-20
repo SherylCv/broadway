@@ -8,8 +8,28 @@ h1{
 }
 .design{
   background-image: url("../images/the-flatiron-building.png");
-  color: black;
+  color: white;
 }
 #navigation{
   font-size: 18px;
+}
+.middle{
+
+}
+h2{
+
+}
+.label{
+font-size: 23px;
+font-weight: bold;
+}
+.desc{
+font-size: 14px;
+}
+.footer{
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+
 }
